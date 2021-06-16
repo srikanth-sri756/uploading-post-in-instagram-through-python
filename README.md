@@ -1,1 +1,1 @@
-# uploading-post-instagram-through-python
+# uploading-post-in-instagram-through-python
